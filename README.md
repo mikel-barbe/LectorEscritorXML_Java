@@ -27,7 +27,7 @@ Este proyecto implementa un sistema en Java que permite **leer y escribir archiv
 
 Ejemplo de archivo `peliculas.xml` generado:
 
-xml
+```xml
 <peliculas>
     <pelicula>
         <titulo>Matrix</titulo>
@@ -40,8 +40,8 @@ xml
         </actores>
     </pelicula>
 </peliculas>
-
-📜 Licencia
+```
+## 📜 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente citando la fuente.
 
