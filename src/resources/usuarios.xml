@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+    <usuario nacionalidad="Argentina" edad="30">
+        <nombre>Juan</nombre>
+        <apellido>Pérez</apellido>
+    </usuario>
+    <usuario nacionalidad="México" edad="25">
+        <nombre>María</nombre>
+        <apellido>López</apellido>
+    </usuario>
+    <usuario nacionalidad="España" edad="40">
+        <nombre>Carlos</nombre>
+        <apellido>García</apellido>
+    </usuario>
+</usuarios>
