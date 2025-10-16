@@ -6,7 +6,10 @@ public class Entrada {
     static void main() {
 
         OperacionesXML operacionesXML = new OperacionesXML();
-        operacionesXML.lecturaXML();
+      //operacionesXML.lecturaXML();
+
+        operacionesXML.escrituraXML();
+
 
     }
 }

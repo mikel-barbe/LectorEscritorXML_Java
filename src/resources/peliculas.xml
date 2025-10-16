@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cartelera id="1">
+    <pelicula anio="2010" genero="Ciencia Ficción">
+        <titulo>Inception</titulo>
+        <director>Christopher Nolan</director>
+        <actores>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Joseph Gordon-Levitt</actor>
+            <actor>Elliot Page</actor>
+        </actores>
+    </pelicula>
+    <pelicula anio="1999" genero="Ciencia Ficción">
+        <titulo>The Matrix</titulo>
+        <director>Lana y Lilly Wachowski</director>
+        <actores>
+            <actor>Keanu Reeves</actor>
+            <actor>Laurence Fishburne</actor>
+            <actor>Carrie-Anne Moss</actor>
+        </actores>
+    </pelicula>
+    <pelicula anio="2012" genero="Acción">
+        <titulo>The Avengers</titulo>
+        <director>Joss Whedon</director>
+        <actores>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Chris Evans</actor>
+            <actor>Scarlett Johansson</actor>
+        </actores>
+    </pelicula>
+    <pelicula anio="1994" genero="Drama">
+        <titulo>Forrest Gump</titulo>
+        <director>Robert Zemeckis</director>
+        <actores>
+            <actor>Tom Hanks</actor>
+            <actor>Robin Wright</actor>
+            <actor>Gary Sinise</actor>
+        </actores>
+    </pelicula>
+    <pelicula anio="2016" genero="Musical/Romance">
+        <titulo>La La Land</titulo>
+        <director>Damien Chazelle</director>
+        <actores>
+            <actor>Emma Stone</actor>
+            <actor>Ryan Gosling</actor>
+            <actor>John Legend</actor>
+        </actores>
+    </pelicula>
+</cartelera>
