@@ -1,5 +1,3 @@
-# LectorEscritorXML_Java
-
 # 📂 Gestor de Archivos XML en Java
 
 Este proyecto implementa un sistema en Java que permite **leer y escribir archivos XML**. Es una herramienta sencilla pero útil para gestionar información estructurada como películas, actores y usuarios.
